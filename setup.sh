@@ -97,7 +97,7 @@ fi
 
 if [ -z "$NAME" ]
 then
-   NAME="vpn"
+   NAME="vpn_sailvan"
 fi
 
 cat >/etc/ppp/chap-secrets <<END
